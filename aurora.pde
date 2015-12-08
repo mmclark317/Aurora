@@ -3,7 +3,7 @@ AURORA: Reflection on Omnichords
 Mary Clark ARTS104 Robinson
 
 Creates a symmetrical, rippling effect with an omnichord's 
-arpeggios. Works with the Column class and the Omnichord class.
+arpeggios. Works with the Column class and MidiBus
 ==============================================*/
 
 import javax.sound.midi.MidiMessage;
